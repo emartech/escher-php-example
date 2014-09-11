@@ -1,0 +1,82 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "127c6d5d8b07431abd8469a02d7b6958",
+    "packages": [
+        {
+            "name": "emartech/escher",
+            "version": "0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/emartech/escher-php.git",
+                "reference": "a036736df47f25d3b1f3f43a530e4bb8d65bf497"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/emartech/escher-php/zipball/a036736df47f25d3b1f3f43a530e4bb8d65bf497",
+                "reference": "a036736df47f25d3b1f3f43a530e4bb8d65bf497",
+                "shasum": ""
+            },
+            "require": {
+                "php": "~5.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "3.7.*"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/Escher.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Emarsys Technologies",
+                    "homepage": "http://emarsys.com/",
+                    "role": "company"
+                },
+                {
+                    "name": "Andras Barthazi",
+                    "email": "andras@barthazi.hu",
+                    "homepage": "https://github.com/boogie/",
+                    "role": "lead"
+                },
+                {
+                    "name": "Csaba Peter Simon",
+                    "email": "fqqdk1@gmail.com",
+                    "homepage": "https://github.com/fqqdk/",
+                    "role": "developer"
+                }
+            ],
+            "description": "Library for HTTP request signing (PHP implementation)",
+            "homepage": "https://github.com/emartech/escher-php",
+            "keywords": [
+                "Authentication",
+                "api",
+                "aws",
+                "escher",
+                "hmac",
+                "http",
+                "request",
+                "rest",
+                "sha",
+                "signature"
+            ],
+            "time": "2014-09-10 19:42:05"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
