@@ -1,4 +1,4 @@
-escher-php-example
-==================
+Code examples for EscherPHP - HTTP request signing lib
+======================================================
 
-PHP example for the Escher HTTP request signing library
+Code examples for the Escher HTTP request signing library (https://github.com/emartech/escher-php).
